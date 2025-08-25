@@ -10,6 +10,7 @@ I'm committed to combining **technical expertise** with **creative problem-solvi
 - **Location:** Indore, Madhya Pradesh, India  
 - **Email:** [rajvardhancoder@gmail.com](mailto:rajvardhancoder@gmail.com)  
 - **Phone:** +91 9770289936  
+- **Website:** [www.rajvardhansingh.in](https://www.rajvardhansingh.in)  
 
 ---
 
@@ -41,7 +42,7 @@ Here are some of my recent projects:
 3. **JuzVents** – Vibrant website for an event management company.  
 4. **Portfolio Website** – Personal portfolio showcasing skills and projects.  
 
-Check out the code and demos in this repository.
+Check out the code and demos in this repository or visit my website: [www.rajvardhansingh.in](https://www.rajvardhansingh.in)
 
 ---
 
@@ -51,6 +52,7 @@ Feel free to reach out to me for any projects, collaborations, or inquiries:
 - **Email:** [rajvardhancoder@gmail.com](mailto:rajvardhancoder@gmail.com)  
 - **Phone:** +91 9770289936  
 - **Location:** Navlakh, Indore, Madhya Pradesh, India  
+- **Website:** [www.rajvardhansingh.in](https://www.rajvardhansingh.in)  
 
 ---
 
@@ -61,4 +63,3 @@ Feel free to reach out to me for any projects, collaborations, or inquiries:
 ---
 
 *“Creating digital experiences that matter.”*
-
