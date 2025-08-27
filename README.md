@@ -58,7 +58,7 @@ Feel free to reach out to me for any projects, collaborations, or inquiries:
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/rajvardhansingh)  
-- [GitHub](https://github.com/yourusername)  
+- [Instagram](https://instagram.com/webbyraj)  
 
 ---
 
