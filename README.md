@@ -1,6 +1,5 @@
 # Rajvardhan Singh – Web Developer & UI/UX Designer
 Hi, I'm **Rajvardhan Singh**, a passionate Web Developer and UI/UX Designer from Indore, India. I specialize in creating modern, responsive websites and web applications with a focus on clean code, intuitive user interfaces, and optimal user experience.
-
 ---
 
 ## About Me
