@@ -8,7 +8,6 @@ I'm committed to combining **technical expertise** with **creative problem-solvi
 - **Email:** [rajvardhancoder@gmail.com](mailto:rajvardhancoder@gmail.com)  
 - **Phone:** +91 97702 89936  
 - **Website:** [www.rajvardhansingh.in](https://www.rajvardhansingh.in)  
-
 ---
 
 ## Skills
