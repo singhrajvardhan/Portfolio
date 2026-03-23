@@ -3,7 +3,6 @@ Hi, I'm **Rajvardhan Singh**, a passionate Web Developer and UI/UX Designer from
 ---
 
 
-
 ## About Me
 I'm committed to combining **technical expertise** with **creative problem-solving** to deliver digital solutions that are both functional and visually appealing. I continuously learn and stay updated with the latest web technologies to provide the best results for every project.
 
